@@ -31,3 +31,10 @@ ___
 
 Contact me at @codigoMate.
 
+
+# To start:
+You need, gatsby, gatsby-cli installed globally.
+Then just npm i
+
+and run "npm run develop"
+
